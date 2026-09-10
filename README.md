@@ -1,25 +1,19 @@
-# Engineering sandbox
+# Engineering lab
 
-Reserved workspace for short-lived prototypes, spikes, and integration notes across the full-stack, blockchain, and AI practice.
+Working notes and short-lived prototypes for the [antonkarasbiz](https://github.com/antonkarasbiz) practice. Durable products live in their own repositories.
 
-This is not a production product repository. Durable work lives in dedicated project repos under [antonkarasbiz](https://github.com/antonkarasbiz).
+## Scope
 
-## Intended use
+- Protocol sketches and ABI drafts
+- Integration spikes before they become a named service
+- Scratch notes that are not ready for a product README
 
-- Quick language or framework experiments
-- Protocol ABI / IDL sketches
-- API contract drafts before they move into a named project
-- Scratch documentation that is not ready for a product README
-
-## Related repositories
+## Active product repositories
 
 | Area | Repository |
 | --- | --- |
+| Prediction markets | [polymarket-trading-bot](https://github.com/antonkarasbiz/polymarket-trading-bot), [polymarket-market-maker](https://github.com/antonkarasbiz/polymarket-market-maker), [polymarket-analytics](https://github.com/antonkarasbiz/polymarket-analytics) |
+| Blockchain | [solana-execution-engine](https://github.com/antonkarasbiz/solana-execution-engine), [evm-order-router](https://github.com/antonkarasbiz/evm-order-router), [crossyield-rwa-bridge](https://github.com/antonkarasbiz/crossyield-rwa-bridge) |
 | Portfolio | [portfolio](https://github.com/antonkarasbiz/portfolio) |
-| Blockchain | [crossyield-rwa-bridge](https://github.com/antonkarasbiz/crossyield-rwa-bridge), [program-examples](https://github.com/antonkarasbiz/program-examples) |
-| AI | [ai-gateway-platform](https://github.com/antonkarasbiz/ai-gateway-platform), [LittleAIBox_AI-Powered-Application](https://github.com/antonkarasbiz/LittleAIBox_AI-Powered-Application) |
-| Full-stack | [nextjs-fullstack-app](https://github.com/antonkarasbiz/nextjs-fullstack-app), [fullstack-saas-boilerplate](https://github.com/antonkarasbiz/fullstack-saas-boilerplate) |
 
-## Maintainer
-
-[Anton Karas](https://github.com/antonkarasbiz) — full-stack, blockchain, and AI engineering.
+Maintained by [Anton Karas](https://github.com/antonkarasbiz).
